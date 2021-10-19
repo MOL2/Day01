@@ -1,0 +1,18 @@
+date ; who ; ls > ex05
+Capture d’écran 2021-10-19 à 16.17.51.png
+ex05
+test0
+test1
+test2
+test3
+test4
+test5
+
+
+date ; who ; ls
+Tue Oct 19 16:24:10 CEST 2021
+mauldereigner console  Oct 19 09:06
+Capture d’écran 2021-10-19 à 16.17.51.png       test2                                           test5
+test0                                           test3
+test1                                           test4
+
