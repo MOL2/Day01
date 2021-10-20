@@ -1,0 +1,8 @@
+chmod 775 test0
+chmod 744 test1
+chmod 755 test3
+chmod 644 test2
+chmod 644 test4
+chmod 111 test5
+
+touch -t 207701010000 test5
